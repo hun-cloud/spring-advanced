@@ -4,9 +4,7 @@ import hello.advanced.trace.TraceStatus;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class HelloTraceV1Test {
+class HelloTraceV11Test {
 
     @DisplayName("begin_end")
     @Test
